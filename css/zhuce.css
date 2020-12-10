@@ -1,0 +1,56 @@
+.info {
+    margin: auto;
+  }
+  
+  .info .login,
+  .info .register {
+    display: inline;
+  }
+  input.error{
+    border: 1px red solid;
+  }
+  label.error{
+    color: red;
+  }
+  .login_error{
+    color: red;
+  }
+  .info userinfo container{
+      margin-top: 300px;
+  }
+  .panel panel-success{
+    opacity: 0.5;
+  }
+.container {
+  opacity: 1;
+  width: 500px;
+}
+.panel-success>.panel-heading {
+  color:black;
+  background-color:seagreen;
+  border-color:gray;
+}
+.panel-body {
+    padding: 15px;
+}
+.panel-heading {
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+.panel{
+    margin-top: 200px;
+    background-image: url("../img/93e750c14c897f5d292202ac88bc370d.jpg");
+}
+.form-group>lable{
+    color: black;
+}
+.btn-success {
+
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+}
